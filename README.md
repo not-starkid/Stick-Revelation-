@@ -27,12 +27,6 @@ Whether this repository is a game, a tool, or a visual concept, this README give
 
 ## ⚡ Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/not-starkid/Stick-Revelation-.git
-cd Stick-Revelation-
-```
-
 > Add your code, assets, or documentation here and bring the story to life.
 
 ## 🛠️ Suggested Sections to Add
